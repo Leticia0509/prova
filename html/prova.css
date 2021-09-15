@@ -1,0 +1,77 @@
+.body{
+    padding: 0px;
+    margin: 0px;
+    font-family: Roboto;
+}
+
+*{
+    box-sizing: border-box;
+    cursor: default;
+    padding: 0px;
+    margin: 0px;
+}
+
+.Container-prova{
+    display: flex;
+    flex-direction: row;
+}
+
+.lef-box{
+    height: 100vh;
+    background-color: #262626;
+    width: 10em;
+}
+
+.f1-titulo{
+    height: 3em;
+    background-color: #2B3031;
+    margin-bottom: 3em;
+    color: white;
+}
+
+.f1-titulo span{
+    color: #10eaea;
+}
+
+.f1-gerenciamento{
+    height: 3em;
+    background-color: #2B3031;
+    margin-bottom: 3em;
+    color: white;
+}
+
+.f1-menu{
+
+}
+
+.Container-2{
+
+}
+
+.Cabecalho{
+
+}
+
+.f1-perfil{
+
+}
+
+.f1-botão{
+
+}
+
+.Novo-produto{
+
+}
+
+.f1-text{
+
+}
+
+.inputs{
+
+}
+
+.Caixa-input{
+
+}
